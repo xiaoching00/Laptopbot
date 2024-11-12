@@ -1,0 +1,35 @@
+LaptopName: ASUS TUF Gaming F15, Price: 1999, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: NVIDIA GTX 1660 Ti, Use: Gaming, Programming
+LaptopName: Acer Nitro 5, Price: 2100, Processor: Intel i5, RAM: 8GB, Storage: 512GB SSD, GPU: NVIDIA GTX 1650, Use: Gaming, Programming
+LaptopName: Dell Inspiron 15, Price: 1800, Processor: Intel i5, RAM: 8GB, Storage: 256GB SSD, GPU: Integrated, Use: Programming
+LaptopName: Lenovo Legion 5, Price: 1900, Processor: AMD Ryzen 7, RAM: 16GB, Storage: 512GB SSD, GPU: NVIDIA RTX 3050, Use: Gaming, Programming
+LaptopName: HP Pavilion x360, Price: 1600, Processor: Intel i5, RAM: 8GB, Storage: 256GB SSD, GPU: Integrated, Use: Programming
+LaptopName: MSI GF63 Thin, Price: 1800, Processor: Intel i5, RAM: 8GB, Storage: 512GB SSD, GPU: NVIDIA GTX 1650, Use: Gaming, Programming
+LaptopName: ASUS ROG Zephyrus G14, Price: 2300, Processor: AMD Ryzen 9, RAM: 16GB, Storage: 1TB SSD, GPU: NVIDIA RTX 3060, Use: Gaming, Content Creation, Programming
+LaptopName: Apple MacBook Pro 14-inch, Price: 3000, Processor: Apple M1 Pro, RAM: 16GB, Storage: 512GB SSD, GPU: Integrated (Apple GPU), Use: Content Creation, Programming, Business
+LaptopName: Dell XPS 13, Price: 1800, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: Integrated, Use: Business, Programming, General Use
+LaptopName: Microsoft Surface Laptop 4, Price: 1700, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: Integrated, Use: Business, Programming, Content Creation
+LaptopName: Lenovo ThinkPad X1 Carbon, Price: 2200, Processor: Intel i7, RAM: 16GB, Storage: 1TB SSD, GPU: Integrated, Use: Business, Programming
+LaptopName: HP Spectre x360, Price: 2000, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: Integrated, Use: Content Creation, Business, General Use
+LaptopName: Acer Predator Helios 300, Price: 2300, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: NVIDIA RTX 3060, Use: Gaming, Content Creation
+LaptopName: MSI GE76 Raider, Price: 2800, Processor: Intel i9, RAM: 32GB, Storage: 1TB SSD, GPU: NVIDIA RTX 3070, Use: Gaming, Content Creation
+LaptopName: Razer Blade 15, Price: 2500, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: NVIDIA RTX 3070, Use: Gaming, Content Creation
+LaptopName: ASUS VivoBook 15, Price: 1200, Processor: Intel i5, RAM: 8GB, Storage: 512GB SSD, GPU: Integrated, Use: General Use, Business
+LaptopName: Huawei MateBook D 14, Price: 1300, Processor: Intel i5, RAM: 8GB, Storage: 512GB SSD, GPU: Integrated, Use: General Use, Business
+LaptopName: Samsung Galaxy Book Pro 360, Price: 1600, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: Integrated, Use: Business, General Use
+LaptopName: ASUS ZenBook Flip 14, Price: 1500, Processor: Intel i5, RAM: 8GB, Storage: 512GB SSD, GPU: Integrated, Use: General Use, Business, Programming
+LaptopName: Dell Alienware M15, Price: 3200, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: NVIDIA RTX 3060, Use: Gaming, Programming
+LaptopName: Gigabyte Aero 15, Price: 2500, Processor: Intel i7, RAM: 16GB, Storage: 1TB SSD, GPU: NVIDIA RTX 3070, Use: Content Creation, Gaming
+LaptopName: Lenovo ThinkPad T14s, Price: 1800, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: Integrated, Use: Business, Programming
+LaptopName: HP Omen 15, Price: 2200, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: NVIDIA RTX 3070, Use: Gaming, Programming
+LaptopName: MSI Prestige 14, Price: 1900, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: NVIDIA GTX 1650, Use: Content Creation, Business
+LaptopName: Apple MacBook Air M2, Price: 1500, Processor: Apple M2, RAM: 8GB, Storage: 512GB SSD, GPU: Integrated (Apple GPU), Use: Business, Programming, General Use
+LaptopName: ASUS TUF Gaming A15, Price: 1700, Processor: AMD Ryzen 7, RAM: 16GB, Storage: 512GB SSD, GPU: NVIDIA GTX 1660 Ti, Use: Gaming, Programming
+LaptopName: Lenovo IdeaPad 3, Price: 800, Processor: Intel i3, RAM: 8GB, Storage: 256GB SSD, GPU: Integrated, Use: General Use, Business
+LaptopName: Acer Aspire 5, Price: 900, Processor: AMD Ryzen 5, RAM: 8GB, Storage: 512GB SSD, GPU: Integrated, Use: General Use, Business
+LaptopName: Dell Latitude 7420, Price: 2100, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: Integrated, Use: Business, Programming
+LaptopName: HP Elite Dragonfly, Price: 2400, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: Integrated, Use: Business, Programming
+LaptopName: ASUS ROG Strix Scar 15, Price: 2800, Processor: Intel i9, RAM: 32GB, Storage: 1TB SSD, GPU: NVIDIA RTX 3080, Use: Gaming, Content Creation
+LaptopName: MSI Titan GT77, Price: 3500, Processor: Intel i9, RAM: 64GB, Storage: 2TB SSD, GPU: NVIDIA RTX 3090, Use: Gaming, Content Creation
+LaptopName: Lenovo Yoga 9i, Price: 1800, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: Integrated, Use: Business, Content Creation
+LaptopName: HP Envy x360, Price: 1600, Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD, GPU: Integrated, Use: Content Creation, Business
+LaptopName: Dell Vostro 15, Price: 1300, Processor: Intel i5, RAM: 8GB, Storage: 256GB SSD, GPU: Integrated, Use: Business, Programming
