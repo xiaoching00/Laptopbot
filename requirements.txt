@@ -3,4 +3,3 @@ streamlit
 google-generativeai
 python-dotenv
 base64
-logging
