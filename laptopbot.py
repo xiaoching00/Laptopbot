@@ -91,7 +91,7 @@ def main():
     initialize_session_state()  # Ensure session state variables are initialized
     st.set_page_config(
         page_title="Laptopbot - AI Assistant",  # Set the page title
-        page_icon="streamly_logo.png",  # Set the favicon
+        page_icon="image/streamly_logo.png",  # Set the favicon
         layout="wide",  # Page layout style
         initial_sidebar_state="auto",  # Sidebar state
         menu_items={  # Optional menu items for the Streamlit app
@@ -120,7 +120,7 @@ def main():
     )
 
     # Convert logo image to base64 for embedding in the sidebar
-    img_path = "image\streamly_logo.png"
+    img_path = "image/streamly_logo.png"
     img_base64 = img_to_base64(img_path)
     if img_base64:
         # Embed the image in the sidebar
